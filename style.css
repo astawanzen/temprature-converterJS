@@ -1,0 +1,13 @@
+* {
+  margin: auto;
+  padding: auto;
+  font-size: x-large;
+  text-align: center;
+  font-family: JetBrains mono;
+  background-color: #000000;
+  color: rebeccapurple;
+}
+
+#convertButton {
+  background-color: rgba(145, 67, 141, 0.299);
+}
